@@ -33,7 +33,7 @@ export const managers = [
       "location": null, // (optional)
       "bio": "I'm just the best of the best, winning chips is what I do. Your going to get sick of see my picture in the winner's bracket. Peace, I'm out",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      // "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
+      "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "buf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
