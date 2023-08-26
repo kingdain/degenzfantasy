@@ -7,13 +7,13 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to the heart of fantasy football thrill: the Degen-z Fantasy Football League! Established in 2022, we are the ultimate hub where football fandom meets the adrenaline rush of gambling on fantasy football.</p>
-  <p>Our crew isn't your ordinary lineup. We're a group of passionate football enthusiasts who share a common love for the game, spiced up with a flair for the daring. From die-hard fans to strategic masterminds, our team embodies the spirit of taking calculated risks and reaping the rewards.</p>
-  <p>Degen-z Fantasy Football League is where calculated strategy meets pure football excitement. We focus on delivering in-depth player analysis, insightful matchup breakdowns, and shrewd trade scenarios that cater to the daring fantasy manager within you.</p>
-  <p>At Degen-z, our mission is clear: to fuel your passion for football while enhancing your strategic prowess. We're here to provide you with the tools to navigate the world of fantasy football gambling with savvy and style, making each season a victory lap of its own.</p>
-  <p>Dive headfirst into the exhilarating blend of football fanaticism and fantasy gambling at Degen-z Fantasy Football League. Embrace the spirit of calculated risks, unforgettable victories, and heart-pounding moments that remind us why we love this game.</p>
-  <p>Buckle up, because at Degen-z, we're not just building fantasy teams – we're crafting legends on the gridiron of the mind.</p>
-  <p>Welcome to the edge of football fantasy. Welcome to Degen-z.</p>
+  <p>  Welcome to the heart of fantasy football thrill: the Degen-z Fantasy Football League! Established in 2022, we are the ultimate hub where football fandom meets the adrenaline rush of gambling on fantasy football.</p>
+  <p>  Our crew isn't your ordinary lineup. We're a group of passionate football enthusiasts who share a common love for the game, spiced up with a flair for the daring. From die-hard fans to strategic masterminds, our team embodies the spirit of taking calculated risks and reaping the rewards.</p>
+  <p>  Degen-z Fantasy Football League is where calculated strategy meets pure football excitement. We focus on delivering in-depth player analysis, insightful matchup breakdowns, and shrewd trade scenarios that cater to the daring fantasy manager within you.</p>
+  <p>  At Degen-z, our mission is clear: to fuel your passion for football while enhancing your strategic prowess. We're here to provide you with the tools to navigate the world of fantasy football gambling with savvy and style, making each season a victory lap of its own.</p>
+  <p>  Dive headfirst into the exhilarating blend of football fanaticism and fantasy gambling at Degen-z Fantasy Football League. Embrace the spirit of calculated risks, unforgettable victories, and heart-pounding moments that remind us why we love this game.</p>
+  <p>  Buckle up, because at Degen-z, we're not just building fantasy teams – we're crafting legends on the gridiron of the mind.</p>
+  <p>  Welcome to the edge of football fantasy. Welcome to Degen-z.</p>
 `;
 
 /*   STEP 3   */
